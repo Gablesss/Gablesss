@@ -3,10 +3,8 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
-
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+ <img src= "https://media.tenor.com/WlJsOVX2lysAAAAi/cat-tongue-cat.gif" width="200"/>
 </div>
 
 ###
